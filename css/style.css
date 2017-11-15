@@ -1,0 +1,23 @@
+.intro {
+  margin: auto;
+  border: 2px black;
+  padding: 10px;
+}
+
+h2.intro {
+  font-weight: bold;
+  text-align: center;
+}
+
+p.intro {
+  font-style: italic;
+  width:500px;
+  text-align: center;
+}
+
+img.intro{
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin: auto;
+}
